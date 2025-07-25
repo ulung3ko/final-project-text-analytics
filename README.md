@@ -45,7 +45,7 @@ The main Jupyter Notebook used in this project is:
 
 If the full notebook does not render properly on GitHub, you can open it using Google Colab:
 
-👉 **[Open notebook with output in Google Colab](https://colab.research.google.com/github/ulung3ko/final-project-text-analytics/blob/main/final_project_text_analytics.ipynb)**
+👉 **[Open notebook with output in Google Colab](https://colab.research.google.com/drive/1rO8MDNd-IjB5sPeHrATjnL_-NmGxrOCL?usp=sharing)**
 
 > **Note**: The dataset and model checkpoints are stored in Google Drive and not included in this repository due to size constraints.
 
