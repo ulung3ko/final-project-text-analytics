@@ -18,11 +18,11 @@ Each model was assessed using standard classification metrics after hyperparamet
 
 ## 📌 Key Highlights
 
-- Aspect-level sentiment classification
-- Hyperparameter tuning across multiple transformer architectures
-- Evaluation using precision, recall, F1-score, and confusion matrix
-- Clear visualizations of model performance
-- Implemented entirely in one notebook with step-by-step explanations
+- Aspect-level sentiment classification  
+- Hyperparameter tuning across multiple transformer architectures  
+- Evaluation using precision, recall, F1-score, and confusion matrix  
+- Clear visualizations of model performance  
+- Implemented entirely in one notebook with step-by-step explanations  
 
 ## 📈 Result Summary
 
@@ -38,12 +38,14 @@ These results indicate that even lighter transformer models can be highly effect
 
 ## 🚀 Getting Started
 
-To reproduce this project:
+The main Jupyter Notebook used in this project is:
 
-1. Open the notebook in [Google Colab](https://colab.research.google.com/).
-2. Run the first cell to install dependencies.
-3. Mount your Google Drive where the dataset and output folders are stored.
-4. Run the notebook cells sequentially for training, evaluation, and analysis.
+- [`final_project_text_analytics.ipynb`](final_project_text_analytics.ipynb) – full version with output (⚠️ **might not render on GitHub** due to large file size)
+- [`final_project_text_analytics_without_output.ipynb`](final_project_text_analytics_without_output.ipynb) – stripped-down version without output (✅ can be viewed directly on GitHub)
+
+If the full notebook does not render properly on GitHub, you can open it using Google Colab:
+
+👉 **[Open notebook with output in Google Colab](https://colab.research.google.com/github/ulung3ko/final-project-text-analytics/blob/main/final_project_text_analytics.ipynb)**
 
 > **Note**: The dataset and model checkpoints are stored in Google Drive and not included in this repository due to size constraints.
 
